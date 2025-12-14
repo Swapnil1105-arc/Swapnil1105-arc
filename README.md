@@ -26,12 +26,7 @@ I’m particularly passionate about:
 - Applying technology for **real-world and social impact**
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-Learning-blueviolet?style=for-the-badge"/>
-</p>
----
+
 
 ## 🤝 Looking to Collaborate On
 
