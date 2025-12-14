@@ -1,8 +1,10 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Swapnil%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Intermediate%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Swapnil%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Intermediate%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlignY=65)
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Intermediate+Python+Developer;C%2B%2B+Programmer;DSA+Enthusiast;Open+Source+Contributor;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=Intermediate+Developer;C%2B%2B+Programmer;DSA+Enthusiast;Open+Source+Contributor;Building+Real-World+Projects" />
 </p>
+
 
 
 # 👋 Hello There!
