@@ -65,13 +65,17 @@ I’m particularly passionate about:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil1105-arc&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil1105-arc&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil1105-arc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil1105-arc&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil1105-arc&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil1105-arc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
 
 ---
 
