@@ -62,16 +62,6 @@ I’m particularly passionate about:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil1105-arc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-
-
----
-
 ## 📫 Reach Me At
 
 - 📧 **Email:** [swapnilgupta064@gmail.com](mailto:swapnilgupta064@gmail.com)  
