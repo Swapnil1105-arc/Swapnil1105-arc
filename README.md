@@ -41,7 +41,7 @@ I’m particularly passionate about:
 - 🌱 **Tech-for-good initiatives**
 - 🚀 **Projects focused on skill-building and impact**
 
----
+-----
 
 ## 💻 Tech Stack
 
