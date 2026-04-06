@@ -84,12 +84,6 @@ I’m particularly passionate about:
 
 ---
 
-## ⭐ Fun Fact
-
-> “The best way to learn is by building and breaking things.”
-
-----
-
 ### 🙌 Thanks for visiting my profile!
 Feel free to explore my repositories, raise issues, or reach out for collaboration.  
 Let’s build something awesome together 🚀
